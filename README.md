@@ -1,8 +1,8 @@
-## [Curve Tabbar]()
-![tabbar](/resources/images/tabbar.gif)
+## [Bubble Tabbar]()
+![tabbar](/resources/images/bubble_tabbar.gif)
 
 ## [Navigation Bar Dropdown]()
 ![tabbar](/resources/images/nav_dropdown.gif)
 
 ## [Strechy Header]()
-![tabbar](/resources/images/strechy.gif)
+![tabbar](/resources/images/stretchy.gif)
